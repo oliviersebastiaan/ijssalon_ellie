@@ -31,7 +31,7 @@ print("vraag 1.8: ")
 for el in reclame_tekst4:
     print(el)
 
-"vraag 1.9"
+#vraag 1.9
 print()
 print("vraag 1.9: ")
 for el in reclame_tekst4:
